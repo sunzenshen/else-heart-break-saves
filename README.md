@@ -1,7 +1,7 @@
 Save Games for Else Heart.Break()
 =================================
 
-The game EHB takes a long time to get to the programming tutorials,
+The game [Else Heart.Break()](http://elseheartbreak.com/) takes a long time to get to the programming tutorials,
 so here are some save game files for skipping to that point.
 
 * `HanksApartment - Day 4 - 12#35.json`
